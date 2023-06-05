@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h1 align="center">Hello there 👋</h1>
+I'm a software developer form Germany currently studying at KIT.
 
 <!--
 **JasonKircher/JasonKircher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
