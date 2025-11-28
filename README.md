@@ -21,9 +21,7 @@ I'm a software developer from Germany currently studying at KIT.
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/eslint/eslint.png" alt="ESLint"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" alt="Npm"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="Tailwind"/>
-  <img height="40" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="Vuetify"/>
   <img height="40" src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2019/12/primevue-logo.png?ssl=1" alt="PrimeVue"/>
-  <img height="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia"/>
 </div>
 
 
