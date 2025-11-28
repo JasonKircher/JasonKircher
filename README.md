@@ -7,8 +7,6 @@ I'm a software developer from Germany currently studying at KIT.
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"/>
-  <img height="40" src="https://banner2.cleanpng.com/20180405/doe/avgjobs91.webp" alt="C" />
-  <img height="40" src="https://banner2.cleanpng.com/20180825/cjv/kisspng-vector-graphics-stock-illustration-royalty-free-im-intorust-screencasts-for-learning-rust-5b8174a6d9e829.8564044915352106628926.jpg" alt="Rust"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"/>
