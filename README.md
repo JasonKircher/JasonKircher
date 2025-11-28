@@ -1,7 +1,7 @@
 ### <h1 align="center">Hello there 👋</h1>
 I'm a software developer from Germany currently studying at KIT.
 
-## <h2 algin="center"> Techstack </h2>
+## <h2 align="center"> Techstack </h2>
 <div>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/>
