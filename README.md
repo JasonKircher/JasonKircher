@@ -7,11 +7,13 @@ I'm a software developer from Germany currently studying at KIT.
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"/>
+  <img height="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue"/>
+  <img height="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="Node.js"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" alt="JSON"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="Next.js"/>
