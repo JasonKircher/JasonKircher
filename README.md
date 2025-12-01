@@ -8,6 +8,7 @@ I'm a software developer from Germany currently studying at KIT.
   <img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"/>
   <img height="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C"/>
+  <img height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/haskell.svg" alt="Haskell"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"/>
